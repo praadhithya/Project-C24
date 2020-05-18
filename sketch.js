@@ -22,6 +22,7 @@ function draw() {
   background('#222222');
   // Remember to update the Matter Engine and set the background.
   ground1.display();
+  //This is tanker object
   tank1.display();
 }
 
